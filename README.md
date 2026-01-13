@@ -67,18 +67,23 @@ En el repositorio de GitHub se incluyen los siguientes elementos:
 Construido con:
 
 Java (jdk-25).
+
 Swing para la interfaz gráfica.
+
 IDE: Eclipse.
 
 Herramientas adicionales:
 
 Javadoc para la generación de documentación técnica.
+
 Git para el control de versiones.
 
 Versionado:
 
 Sistema de control de versiones: Git.
+
 Rama principal del proyecto: main.
+
 Versión actual del proyecto: v1.0.0.
 
 Autor: Anouar Sabri Achahid
