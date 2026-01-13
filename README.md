@@ -42,7 +42,7 @@ En el repositorio de GitHub se incluyen los siguientes elementos:
 
 ### Windows
 
-1. Asegúrate de tener instalada una versión de **Java** (JRE/JDK) compatible con el proyecto (por ejemplo, Java 8 o superior).  
+1. Asegúrate de tener instalada una versión de **Java** (JRE/JDK) compatible con el proyecto.  
 2. Descarga o clona el repositorio en tu equipo.  
 3. Accede a la carpeta `ejecutable/` donde se encuentra el archivo `.jar` del proyecto.
 
@@ -84,9 +84,8 @@ Versión actual del proyecto: v1.0.0.
 Autor: Anouar Sabri Achahid
 Curso: IES Al-Ándalus – 2º DAM
 
-Licencia
+Licencia:
 Este proyecto se distribuye bajo la licencia MIT.
-Puedes añadir un archivo LICENSE en la raíz del repositorio con el texto completo de la licencia si lo consideras necesario.
 
-Recursos adicionales
+Recursos adicionales:
 Página del repositorio en GitHub: https://github.com/asab817/Swing_P02_compendio.git
