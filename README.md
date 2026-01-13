@@ -64,7 +64,7 @@ En el repositorio de GitHub se incluyen los siguientes elementos:
   java -jar NombreDelArchivo.jar
 
 
-Construido con:
+## Construido con:
 
 Java (jdk-25).
 
@@ -78,7 +78,7 @@ Javadoc para la generación de documentación técnica.
 
 Git para el control de versiones.
 
-Versionado:
+## Versionado:
 
 Sistema de control de versiones: Git.
 
@@ -86,12 +86,12 @@ Rama principal del proyecto: main.
 
 Versión actual del proyecto: v1.0.0.
 
-Autor: Anouar Sabri Achahid
+## Autor: Anouar Sabri Achahid
 
-Curso: IES Al-Ándalus – 2º DAM
+## Curso: IES Al-Ándalus – 2º DAM
 
-Licencia:
+## Licencia:
 Este proyecto se distribuye bajo la licencia MIT.
 
-Recursos adicionales:
+## Recursos adicionales:
 Página del repositorio en GitHub: https://github.com/asab817/Swing_P02_compendio.git
