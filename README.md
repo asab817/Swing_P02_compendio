@@ -21,7 +21,7 @@ En el repositorio de GitHub se incluyen los siguientes elementos:
   Contiene la documentación técnica generada con **javadoc**, incluyendo `index.html` y el resto de ficheros necesarios para la consulta de la API del proyecto.
 
 - `documentos/`  
-  Incluye el documento sobre la usabilidad de la aplicación (análisis de la interfaz, facilidad de uso, mejoras propuestas, etc.).
+  Incluye el documento sobre la usabilidad de la aplicación.
 
 - `README.md`  
   Archivo de documentación principal del repositorio, redactado en **Markdown**.
@@ -87,6 +87,7 @@ Rama principal del proyecto: main.
 Versión actual del proyecto: v1.0.0.
 
 Autor: Anouar Sabri Achahid
+
 Curso: IES Al-Ándalus – 2º DAM
 
 Licencia:
